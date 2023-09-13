@@ -1,7 +1,7 @@
 import Accueil from "./Accueil/Accueil";
-import Chat from "./Chat";
+import Chat from "./Chat/Chat";
 import Portfolio from "./Portfolio";
-import Profil from "./Profil";
+import Profil from "./Profil/Profil";
 
 export{
     Accueil,
